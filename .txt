@@ -1,0 +1,68 @@
+<div class="wrap-collection">
+      
+         <div class="collection-img">
+
+            <img src="./assets/images/shoe04.jpg" alt="">
+            <div class="collect-info">
+            <h6>Nike Air Force 1
+            </h6>
+            <span>$99</span>
+        </div>
+         </div>
+      
+
+      
+            <div class="collection-img">
+   
+               <img src="./assets/images/shoe02.jpg" alt="">
+               <div class="collect-info">
+               <h6>Nike Air Force 1
+               </h6>
+               <span>$99</span>
+           </div>
+            </div>
+         
+
+
+    
+            <div class="collection-img-main">
+   
+               <img src="./assets/images/shoe05.jpg" alt="">
+               <div class="collect-info">
+               <h6>Nike Air Force 1
+               </h6>
+             <span>Brand: Nike
+            </span>
+         
+            </div>
+           </div> 
+        </div>
+       
+
+
+
+
+            <div class="wrap-2">
+                <div class="collection-img">
+       
+                   <img src="./assets/images/shoe02.jpg" alt="">
+                   <div class="collect-info">
+                   <h6>Nike Air Force 1
+                   </h6>
+                   <span>$99</span>
+               </div>
+                </div>
+                <div class="collection-img">
+       
+                    <img src="./assets/images/shoe02.jpg" alt="">
+                    <div class="collect-info">
+                    <h6>Nike Air Force 1
+                    </h6>
+                    <span>$99</span>
+                </div>
+                 </div>
+          
+            </div>
+      
+        </div>
+        
