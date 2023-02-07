@@ -354,8 +354,9 @@ background-color: transparent !important;
     display: flex !important;
     gap: 0px;
     flex-direction: column !important;
-    width: 100px !important;
-    height: 100px !important;
+    width: 110px !important;
+    height: 130px !important;
+    margin-top: 25px !important;
 }
 .catagories ul{
     display: none;
@@ -367,7 +368,21 @@ background-color: transparent !important;
     display: block;
 
 }
+.collection-img-main{
+    margin-top: 7rem;
+}
+.collection-img h6 {
+    font-family: "poppins";
+    font-size: 8px !important;
+    font-weight: 400;
+    line-height: 2px !important;
+    font-style: normal;
+    padding: 0px 0px !important;
+    text-align: center;
+    color: #111111;
+}
 .collection-img img {
+
     width: 93px !important;
     height: 108px !important;
 }
@@ -594,10 +609,12 @@ color: #111111;
 }
 .collection-img{
 
-border-radius: 10px;
-background: #f5f5f5;
-width: 255px;
-height: 313px;
+    border-radius: 10px;
+    background: #f5f5f5;
+    width: 255px;
+    height: 313px;
+    margin: top;
+    margin-top: 12px;
 }
 .collection-img h6{
 
@@ -623,7 +640,7 @@ height: 313px;
     text-align: center;
     color: #ff4f04;
 }
-.collect-info{
+.collection-img .collect-info{
    
         display: flex;
         gap: 19px;
